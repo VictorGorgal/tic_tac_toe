@@ -1,6 +1,6 @@
-# tic_tac_toe
-Jogo da velha baseado em texto, programado usando Programação Orientada a Objetos (POO).
+# Tic Tac Toe
+Text-based tic tac toe, programmed using Object Oriented Programming (OOP).
 
-Este arquivo faz parte de um projeto maior (BOT).
+This file is part of a larger project (BOT).
 
-Cada turno um jogador insere a coordenada que deseja jogar (ex. Q2).
+Each turn a player enters the coordinate he wants to play (eg Q2).
